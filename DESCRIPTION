@@ -37,7 +37,7 @@ Suggests: testthat (>= 3.0.0), boot, BH
 Depends: R (>= 2.10)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-12-20 16:27:22 UTC; CarlFalkMcGill
+Packaged: 2024-12-20 16:54:15 UTC; CarlFalkMcGill
 Author: Carl F. Falk [cre, aut],
   Todd Vogel [aut],
   Sarah Hammami [aut],
